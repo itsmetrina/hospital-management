@@ -5,8 +5,7 @@ A real-time hospital management system designed for efficient coordination of CO
 ---
 
 ## 👩‍💻 Author
-**Trina Sikdar**  
-Roll No: 2021wa86808
+**Trina Sikdar**
 
 ---
 
