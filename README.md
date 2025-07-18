@@ -190,6 +190,18 @@ public UserDetailsService users() {
 
 ---
 
+## DEMO Screenshots
+
+![System Architecture](Demo\system-architecture.png)
+![Successful - Bed Request](Demo\successful_bed_request.png)
+![Fallback - Bed Request](Demo\fallback_bed_request.png)
+![Failure - Bed Request](Demo\failure_bed_request.png)
+![Successful - Oxygen Request](Demo\successful_oxygen_request.png)
+![Fallback - Oxygen Request](Demo\fallback_oxygen_request.png)
+![Failure - Oxygen Request](Demo\failure_oxygen_request.png)
+
+---
+
 ## 📎 License
 
 This project is part of an academic assignment and intended for educational purposes.
