@@ -4,8 +4,7 @@ A real-time hospital management system designed for efficient coordination of CO
 
 ---
 
-## 👩‍💻 Author
-**Trina Sikdar**
+## 👩‍💻 Author -- **Trina Sikdar**
 
 ---
 
@@ -184,10 +183,10 @@ public UserDetailsService users() {
 
 ## 📚 Interview STAR Story Summary
 
-**Situation**: Hospitals lacked a streamlined way to request critical COVID resources.
-**Task**: Build a real-time system to manage beds and oxygen requests from multiple hospitals.
-**Action**: Developed a microservice app with a middleware layer that intelligently routes requests and uses fallbacks.
-**Result**: Built a secure, scalable solution ready for cloud deployment with real-time response handling.
+* **Situation**: Hospitals lacked a streamlined way to request critical COVID resources.
+* **Task**: Build a real-time system to manage beds and oxygen requests from multiple hospitals.
+* **Action**: Developed a microservice app with a middleware layer that intelligently routes requests and uses fallbacks.
+* **Result**: Built a secure, scalable solution ready for cloud deployment with real-time response handling.
 
 ---
 
